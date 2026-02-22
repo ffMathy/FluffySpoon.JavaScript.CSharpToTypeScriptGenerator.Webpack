@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ffMathy/FluffySpoon.JavaScript.CSharpToTypeScriptGenerator.Webpack#readme",
   "dependencies": {
     "@fluffy-spoon/csharp-to-typescript-generator": "latest",
-    "glob": "^7.1.2"
+    "glob": "^13.0.6"
   },
   "devDependencies": {
     "@types/node": "^16.0.0"
